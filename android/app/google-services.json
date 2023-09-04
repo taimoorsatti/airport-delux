@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "580855713227",
+    "project_id": "connectcars-7a1f4",
+    "storage_bucket": "connectcars-7a1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580855713227:android:ac29af3680f999de327a4e",
+        "android_client_info": {
+          "package_name": "com.example.airport_deluxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580855713227-cv08nubsjr0kbmtuihj51jsppkj9dmkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQv8I3SYqgftR-vqSMsAjlQ38ruV-bm8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580855713227-cv08nubsjr0kbmtuihj51jsppkj9dmkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580855713227:android:c25989546042d30e327a4e",
+        "android_client_info": {
+          "package_name": "com.example.connectcars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580855713227-cv08nubsjr0kbmtuihj51jsppkj9dmkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQv8I3SYqgftR-vqSMsAjlQ38ruV-bm8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580855713227-cv08nubsjr0kbmtuihj51jsppkj9dmkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
